@@ -1,6 +1,8 @@
 Hi, I'm Donald 👋
 
-Data Analyst | Power BI | Excel | SQL | Power Query | DAX
+Industrial Physics Graduate | Data Analyst | Aspiring Data Scientist | Python | SQL | Power BI | Excel | Data Modelling | Analytics
+
+I am an Industrial Physics graduate and data analyst interested in using data science to solve practical decision-making problems. My work spans exploratory analysis, data quality, modelling, dashboard development and prototype development, with particular interests in public-sector, agricultural and research applications.
 
 I build end-to-end analytics projects that move from raw data and QA through modelling, analysis, dashboard design and business recommendations.
 
